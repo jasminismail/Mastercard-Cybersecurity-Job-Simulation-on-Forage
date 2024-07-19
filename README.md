@@ -9,7 +9,7 @@ The virtual experience required to submit tasks to receive a certificate upon su
 
 Task 1: Designing a phishing email simulation relevant for Mastercard employees. This enhanced my problem-solving and design analysis skills. See project [here](https://docs.google.com/document/d/1yXxJdR__A9g8gV35pC5jrvTwtymADIN6AbDY2Lz60i4/edit?usp=sharing)
 
-Task 2: Analyzed the outcomes of the simulated phishing attacks on affected teams and developed targeted phishing awareness training materials for a brief presentation, improving my multimedia integration and data visualization abilities.
+Task 2: Analyzed the outcomes of the simulated phishing attacks and deliver awareness training materials which includes a brief presentation tailored to those affected teams. This improved my multimedia integration and data visualization abilities.
 See project [here](https://docs.google.com/presentation/d/1Lxhe8v2XS1NUHiCKaT6sBxz8hZDivrzT/edit?usp=sharing&ouid=116159945119704749968&rtpof=true&sd=true)
 
 ### Skills Learned
